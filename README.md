@@ -11,7 +11,7 @@
 #### ☕ HTML, CSS and JavaScript are my LEGOs and here is what I put together:
 
 - [React RSS Reader](https://github.com/sayantanm19/react-rss-reader) - A RSS Reader using ReactJS.
-- [Gameplay Time Calculator React](gameplay-time-calculator-react) - Another React project that helped me understand the Context API.
+- [Gameplay Time Calculator React](https://github.com/sayantanm19/gameplay-time-calculator-react) - Another React project that helped me understand the Context API.
 - [JavaScript Typing Game](https://github.com/sayantanm19/js-simple-typing-game) - A simple speed typing game using pure JavaScript.
 
 #### ☕ I program in C++ and Python. Here is some of what I built:
