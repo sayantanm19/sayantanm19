@@ -1,11 +1,11 @@
-# नमस्ते (Namaste)
+##  👋 I am **Sayantan**, an aspiring Full Stack Developer.
 
-##  👋 I am **Sayantan Maiti**, an aspiring Full Stack Developer.
-
-- I am currently working on React, Node.js, Azure and serverless. :sunglasses:
-- The best thing I have built is the [Data Structures Handbook](https://play.google.com/store/apps/details?id=com.bashoverflow.datastructures&hl=en_IN&gl=US) using the awesome Flutter SDK. :star:
+- I am currently working on ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) and ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white).
+- The best thing I have built is the [Data Structures Handbook](https://play.google.com/store/apps/details?id=com.bashoverflow.datastructures&hl=en_IN&gl=US) using the awesome ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white).
 - I like to put on this [Underrated Indie Playlist](https://www.youtube.com/playlist?list=PLw9jPysgrp6n0-1VC05Eu7nQWxm4Oej4Y) during my coding sessions. :musical_note:
-- You can contact me through [LinkedIn](https://www.linkedin.com/in/sayantan-maiti/).
+- You can contact me through <a href="https://www.linkedin.com/in/sayantan-maiti/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 #### ☕ HTML, CSS and JavaScript are my LEGOs and here is what I put together:
 
