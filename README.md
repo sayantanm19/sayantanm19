@@ -1,19 +1,22 @@
-# 👋 Hi there, Github visitor  ≧◉ᴥ◉≦
+# 👋 Hi there, Github visitor ≧◉ᴥ◉≦  
 
-### (•◡•) / About Me.
-- A full-stack developer with a good sense of web design.
-- Currently working with **React**, **.NET** and **Microsoft Azure**.
-- Exploring the goodness of **Generative AI**.
-- Certified in **AZ 204: Azure Developer Associate**, **AZ 900: Azure Fundamentals** and **DP-900: Azure Data Fundamentals**.
+### (•◡•) / About Me  
+Coffee ☕️, Code 💻, and the Cloud ☁️ — that’s all I need to build awesome products.  
+
+- I'm a full-stack developer with 4+ years of experience at **Insight**, where I specialize in modernizing applications for scalable, cost-effective **cloud deployments**, particularly on **Microsoft Azure**.
+- Involved in Generative AI implementation including RAG and Agentic workflow.
 - Best thing I developed: [Data Structures Handbook](https://play.google.com/store/apps/details?id=com.bashoverflow.datastructures&hl=en_IN&gl=US) with over **125k+** Play Store downloads and rated a cool **4.8**.
-- Like to put on this [Hollow Coves - From The Woods to the Coastline - APEIRON Mix](https://www.youtube.com/watch?v=-sR9FHi_gks) during my coding sessions. :musical_note:
 - You can reach out to me through <a href="https://www.linkedin.com/in/sayantan-maiti/">LinkedIn</a>.
 
-### (•◡•) / Contributor and Reviewer at GeeksforGeeks.
+My go-to toolkit includes:  
+- **.NET**, **React**, **Python**  
+- A variety of **frameworks**, **databases**, and **cloud services**
 
-- [Analyzing Mobile Data Speeds from TRAI with Pandas](https://www.geeksforgeeks.org/analyzing-mobile-data-speeds-from-trai-with-pandas/) - Won the 3rd prize in the Technical Scripter contest for this one!
-- [Design a typing speed test game using JavaScript](https://www.geeksforgeeks.org/design-a-typing-speed-test-game-using-javascript/) - Won the 2nd prize for this one too!!
-- [Create a Music Player using JavaScript](https://www.geeksforgeeks.org/create-a-music-player-using-javascript/) - This got pretty popular for some reason ¯\\\_(ツ)_/¯
+💡 Certified in:  
+- **AZ-204: Azure Developer Associate**
+- **AWS Certified Cloud Practitioner**
+- **AZ-900: Azure Fundamentals**  
+- **DP-900: Azure Data Fundamentals**
 
 <div align="center">
 <br>
